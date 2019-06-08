@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788013981715",
+    "firebase_url": "https://android-iot-fiap.firebaseio.com",
+    "project_id": "android-iot-fiap",
+    "storage_bucket": "android-iot-fiap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788013981715:android:f39f3bbb0b50698f",
+        "android_client_info": {
+          "package_name": "br.com.baccan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788013981715-igtk1so96vhrgkqhouv3vb4n2asq8vga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.baccan",
+            "certificate_hash": "91ea683887c771a8d7d7d20fdf812b71dfd8a9f3"
+          }
+        },
+        {
+          "client_id": "788013981715-ae2gcm4g7p35no3thldnet9ibfiua02f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3FyMtUFDlhuTjpu_CkpKOX7_9D1mF5z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788013981715-ae2gcm4g7p35no3thldnet9ibfiua02f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
