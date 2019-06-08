@@ -27,6 +27,14 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/btnSair" app:layout_constraintStart_toStartOf="@+id/btnIluminacao"
+            app:layout_constraintEnd_toEndOf="@+id/btnIluminacao"
+            app:layout_constraintHorizontal_bias="0.0"
+            android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"/>
+    <Button
+            android:text="Controle de temperatura"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnTemperatura" app:layout_constraintStart_toStartOf="@+id/btnIluminacao"
             app:layout_constraintEnd_toEndOf="@+id/btnIluminacao" android:layout_marginTop="32dp"
             app:layout_constraintTop_toBottomOf="@+id/btnIluminacao"/>
 
